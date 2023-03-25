@@ -8,3 +8,8 @@ Nama Anggota Kelompok:
 
 Link Mockup with Figma:
 https://www.figma.com/file/42w9nakY5K4JjUNJsrj65m/Untitled?node-id=12%3A24&t=w6nDrFAAUrz2g85h-1
+
+
+Admin:
+email:        admin@gmail.com
+password:     12345678
